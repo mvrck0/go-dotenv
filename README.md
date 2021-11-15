@@ -11,4 +11,4 @@ No, but you'll probably got here by mistake and want to check out
 # Todo:
 
 - [] Improve the code as my golang-journey progresses
-- [] ?# go-dotenv
+- [] ? go-dotenv
