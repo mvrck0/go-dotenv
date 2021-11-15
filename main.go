@@ -1,17 +1,17 @@
 package main
 
 import (
-        // "fmt"
-        // "github.com/thatisuday/commando"
-        // "os"
-        // "os/exec"
-        // "path/filepath"
+	// "fmt"
+	// "github.com/thatisuday/commando"
+	// "os"
+	// "os/exec"
+	// "path/filepath"
 
-        "os"
-        "strings"
+	"os"
+	"strings"
 
-        "github.com/fatih/color"
-        "github.com/joho/godotenv"
+	"github.com/fatih/color"
+	"github.com/joho/godotenv"
 )
 
 const dotenvVersion = "0.0.1"
